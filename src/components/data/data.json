@@ -83,13 +83,6 @@
             "description": "Just-Tip is about \"Jasa Titip\" service, implemented with HTML and CSS as the frontend, PHP as the backend, and SQL as the database which purposed for university course project that has feature such as register and login as requirement for use the full service, check available service, manage order, manage product, and doing payment."
         },
         {
-            "name": "Tjiwi Kimia QA System",
-            "start": "Sep 2018",
-            "end": "Dec 2018",
-            "preview": "tjiwikimia.mp4",
-            "description": "Tjiwi Kimia QA System is implemented with HTML and CSS as the frontend, PHP as the backend, and SQL as the database which purposed for university course project about IS Audit activity based on ISO 38500 principle that has feature such as generated audit questionnaire based on research by other team members, generating analysis from the auditing questionnaire results and create a report."
-        },
-        {
             "name": "KMBA Website",
             "start": "Dec 2017",
             "end": "Dec 2018",
