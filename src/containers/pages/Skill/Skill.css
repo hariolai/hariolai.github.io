@@ -1,0 +1,68 @@
+@font-face{
+    font-family: Product-Sans-Bold; 
+    src: url('../../../assets/fonts/product-sans/Product\ Sans\ Bold.ttf');
+}
+@font-face{
+    font-family: Product-Sans-Regular; 
+    src: url('../../../assets/fonts/product-sans/Product\ Sans\ Regular.ttf');
+}
+#skillWrapper {
+    background-color: #dddddd;
+    padding-top: 20px;
+    overflow: hidden;
+    height: 1%;
+    padding-bottom: 50px;
+}
+#skillHeader {
+    color: #343F51;
+    font-size: 40px;
+    padding: 0px 0px 20px 120px;
+    font-family: 'Product-Sans-Bold';
+}
+* {
+    box-sizing: border-box;
+}
+
+/* Three equal columns that floats next to each other */
+.columnSkill {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 200px;
+    background-color: #dddddd;
+    color: #343F51;
+    border-style: solid;
+    border-color: #dddddd;
+    text-align: center;
+}
+.skillImage {
+    padding-top: 20px;
+    height: 100px;
+}
+.skillTitle {
+    font-family: 'Product-Sans-Regular';
+    font-weight: 400;
+}
+.rowSkill{
+    padding: 0px 100px;
+}
+
+/* Clear floats after the columns */
+.rowSkill:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 1024px) {
+    #skillHeader {
+        padding: 0px 0 50px 0px;
+        text-align: center;
+    }
+    .rowSkill {
+        padding: 0px 30px;
+    }
+    .columnSkill {
+        width: 100%;
+    }
+}

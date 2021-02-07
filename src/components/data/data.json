@@ -1,0 +1,140 @@
+{
+    "home": {
+        "title": "Software Engineer",
+        "linkedin": "https://www.linkedin.com/in/hariolai/",
+        "github": "https://github.com/hariolai"
+    },
+    "aboutMe": "Hi! my name is Hario Lai, I am a fresh graduate from President University with Information System major. I‘m an aspiring software engineer. I practices software development and understands its fundamentals. I enjoy taking problems and turning them into beautiful solution. I do website and mobile app development on free time. I love to learn new things, I love to read books, and I love to watch movies.",
+    "experiences": [
+        {
+            "company": "Gojek",
+            "logo": "gojek.jpg",
+            "location": "Indonesia",
+            "start": "May 2020",
+            "end": "June 2020",
+            "role": "Participant of #LearnAtHome with GoAcademy",
+            "description": [
+                [
+                    "One of 30 selected participants out of 3000 applicants.",
+                    "Get of opportunity to learnt and workshop about Data Analytic's Gojek Data Team and soft skill from GoAcademy for 3 weeks."
+                ]
+            ]
+        },
+        {
+            "company": "Philip Morris Sampoerna International Service Center",
+            "logo": "pmsisc.png",
+            "location": "Jakarta, Indonesia",
+            "start": "May 2019",
+            "end": "Nov 2019",
+            "role": "Solution Architect Intern",
+            "description": [
+                [
+                    "Developed the efficient way use Go language to reduce IIoT project configuration duration.",
+                    "Worked on the project about migrate legacy system to new system that reduce the company maintenance cost also improve operation efficiency.",
+                    "Became a coach assistant that trained a team up-to 10 developers in DevOps training project."
+                ]
+            ]
+        },
+        {
+            "company": "KMB Ashokavardhana Club",
+            "logo": "kmba.png",
+            "location": "Cikarang, Indonesia",
+            "start": "Dec 2017",
+            "end": "Dec 2018",
+            "role": "Full Stack Web Developer",
+            "description": [
+                [
+                    "Keluarga Mahasiswa Buddhist Ashokavardhana is a student club at President University.",
+                    "Develop and Mantained web-based application using HTML5, CSS, Javascript, Bootstrap framework, PHP and MySQL."
+                ]
+            ]
+        }
+    ],
+    "education": [
+        {
+            "name": "President University",
+            "logo": "presidentUniversity.png",
+            "location": "Indonesia",
+            "start": "2016",
+            "end": "2020",
+            "major": "Bachelor of Science (Information System Major)",
+            "description": [
+                [
+                    "Completed an undergraduate degree in Computer Science concentrating in Information System; GPA 3.73 / 4.00.",
+                    "Has been active in student organization and club.",
+                    "Full Scholarship Receiver."
+                ]
+            ]
+        }
+    ],
+    "project": [
+        {
+            "name": "I-Safe",
+            "start": "Sep 2019",
+            "end": "Jun 2020",
+            "preview": "isafe.mp4",
+            "description": "I-Safe is about Personal Security App, implemented with React JS (HTML, CSS, JS) as the frontend for website, Kotlin as the frontend for Android mobile app, Go & Python as the backend, SQL & MongoDB as the database, and Nginx as the webserver which purposed for personal side project that has feature such as user(police and society) login and registration, create alarm report and broadcast notification to nearby users, check victim location, case management, chat group, police member management, and generate report/chart."
+        },
+        {
+            "name": "Just-Tip",
+            "start": "Sep 2018",
+            "end": "Apr 2019",
+            "preview": "justtip.mp4",
+            "description": "Just-Tip is about \"Jasa Titip\" service, implemented with HTML and CSS as the frontend, PHP as the backend, and SQL as the database which purposed for university course project that has feature such as register and login as requirement for use the full service, check available service, manage order, manage product, and doing payment."
+        },
+        {
+            "name": "Tjiwi Kimia QA System",
+            "start": "Sep 2018",
+            "end": "Dec 2018",
+            "preview": "tjiwikimia.mp4",
+            "description": "Tjiwi Kimia QA System is implemented with HTML and CSS as the frontend, PHP as the backend, and SQL as the database which purposed for university course project about IS Audit activity based on ISO 38500 principle that has feature such as generated audit questionnaire based on research by other team members, generating analysis from the auditing questionnaire results and create a report."
+        },
+        {
+            "name": "KMBA Website",
+            "start": "Dec 2017",
+            "end": "Dec 2018",
+            "preview": "kmba.mp4",
+            "description": "KMBA Website is implemented with HTML and CSS as the frontend, PHP as the backend, and SQL as the database which purposed for Official Website of one of Club in University that has feature such as generated updated club members, online shop by \"KMBA\", generate list of articles, , generate list of events, and generate upcoming event."
+        },
+        {
+            "name": "Matrix",
+            "start": "Aug 2017",
+            "end": "Dec 2017",
+            "preview": "matrix.mp4",
+            "description": "Matrix Printing Portal is about about online printing system service, implemented with HTML and CSS as the frontend, PHP as the backend, and SQL as the database which purpose for university course project that has feature such as user and admin registration, upload file, download file, printing activity management by admin and choosing printing spot by user."
+        }
+    ],
+    "competition": [
+        {
+            "name": "KickStart",
+            "logo": "google.png",
+            "position": "Participant",
+            "start": "Feb 2020",
+            "end": "Nov 2020",
+            "description": "Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google).",
+            "certificate": "kickstart2020.PNG"
+        }
+    ],
+    "skill": [
+        {
+            "name": "C++",
+            "icon": "cpp.png"
+        },
+        {
+            "name": "Python",
+            "icon": "python.png"
+        },
+        {
+            "name": "SQL",
+            "icon": "sql.png"
+        },
+        {
+            "name": "JavaScript",
+            "icon": "js.png"
+        },
+        {
+            "name": "Go",
+            "icon": "go.png"
+        }
+    ]
+}

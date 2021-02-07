@@ -1,0 +1,45 @@
+@font-face{
+    font-family: Product-Sans-Bold; 
+    src: url('../../../assets/fonts/product-sans/Product\ Sans\ Bold.ttf');
+}
+@font-face{
+    font-family: Product-Sans-Regular; 
+    src: url('../../../assets/fonts/product-sans/Product\ Sans\ Regular.ttf');
+}
+#aboutContainer {
+    width: 100%;
+    background-color: #fff;
+    margin-top: 100px;
+    display: flex;
+}
+#aboutPhoto {
+    height: 400px;
+    margin-left: 7%;
+}
+.aboutChild {
+    display: inline-block;
+    width: 65%;
+    margin-left: 20px;
+}
+.aboutChild .title {
+    color: #343F51;
+    text-decoration: underline;
+    font-size: 45px;
+    font-family: 'Product-Sans-Bold';
+}
+.aboutChild .text {
+    font-family: 'Product-Sans-Regular';
+    text-align: justify;
+    display: block;
+    color: #3e495a;
+    line-height: 1.6;
+}
+@media screen and (max-width: 900px) {
+    #aboutContainer{
+        display: block;
+    }
+    .aboutChild{
+        width: 95%;
+        margin-left: 10px;
+    }
+}

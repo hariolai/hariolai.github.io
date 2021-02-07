@@ -1,0 +1,12 @@
+#edContainer {
+    background-color: #f0f0f0;
+    margin-top: -50px;
+    padding-bottom: 50px;
+}
+#edTitle{
+    font-size: 40px;
+    text-decoration: underline;
+    text-align: center;
+    color: #343F51;
+    padding: 50px 0;
+}
