@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hariolai.github.io/static/css/main.31659139.chunk.css",
-    "main.js": "/hariolai.github.io/static/js/main.30be24c2.chunk.js",
-    "main.js.map": "/hariolai.github.io/static/js/main.30be24c2.chunk.js.map",
-    "runtime-main.js": "/hariolai.github.io/static/js/runtime-main.f70081cf.js",
-    "runtime-main.js.map": "/hariolai.github.io/static/js/runtime-main.f70081cf.js.map",
+    "main.css": "/hariolai.github.io/static/css/main.c2931c6f.chunk.css",
+    "main.js": "/hariolai.github.io/static/js/main.0e832416.chunk.js",
+    "main.js.map": "/hariolai.github.io/static/js/main.0e832416.chunk.js.map",
+    "runtime-main.js": "/hariolai.github.io/static/js/runtime-main.645b4fd7.js",
+    "runtime-main.js.map": "/hariolai.github.io/static/js/runtime-main.645b4fd7.js.map",
     "static/js/2.b3c06aa6.chunk.js": "/hariolai.github.io/static/js/2.b3c06aa6.chunk.js",
     "static/js/2.b3c06aa6.chunk.js.map": "/hariolai.github.io/static/js/2.b3c06aa6.chunk.js.map",
-    "static/js/3.7e8b8d06.chunk.js": "/hariolai.github.io/static/js/3.7e8b8d06.chunk.js",
-    "static/js/3.7e8b8d06.chunk.js.map": "/hariolai.github.io/static/js/3.7e8b8d06.chunk.js.map",
+    "static/js/3.37b30877.chunk.js": "/hariolai.github.io/static/js/3.37b30877.chunk.js",
+    "static/js/3.37b30877.chunk.js.map": "/hariolai.github.io/static/js/3.37b30877.chunk.js.map",
     "index.html": "/hariolai.github.io/index.html",
-    "static/css/main.31659139.chunk.css.map": "/hariolai.github.io/static/css/main.31659139.chunk.css.map",
+    "static/css/main.c2931c6f.chunk.css.map": "/hariolai.github.io/static/css/main.c2931c6f.chunk.css.map",
     "static/js/2.b3c06aa6.chunk.js.LICENSE.txt": "/hariolai.github.io/static/js/2.b3c06aa6.chunk.js.LICENSE.txt",
     "static/media/Skill.css": "/hariolai.github.io/static/media/Product Sans Bold.53df38d5.ttf",
     "static/media/GenericNotFound.css": "/hariolai.github.io/static/media/Product Sans Regular.d1653840.ttf",
@@ -26,13 +26,12 @@
     "static/media/linkedin.7b24d025.png": "/hariolai.github.io/static/media/linkedin.7b24d025.png",
     "static/media/matrix.mp4": "/hariolai.github.io/static/media/matrix.c88be60a.mp4",
     "static/media/pmsisc.png": "/hariolai.github.io/static/media/pmsisc.ed38f1ab.png",
-    "static/media/presidentUniversity.png": "/hariolai.github.io/static/media/presidentUniversity.68899a66.png",
-    "static/media/tjiwikimia.mp4": "/hariolai.github.io/static/media/tjiwikimia.a3714607.mp4"
+    "static/media/presidentUniversity.png": "/hariolai.github.io/static/media/presidentUniversity.68899a66.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f70081cf.js",
+    "static/js/runtime-main.645b4fd7.js",
     "static/js/2.b3c06aa6.chunk.js",
-    "static/css/main.31659139.chunk.css",
-    "static/js/main.30be24c2.chunk.js"
+    "static/css/main.c2931c6f.chunk.css",
+    "static/js/main.0e832416.chunk.js"
   ]
 }
