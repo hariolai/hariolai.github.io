@@ -1,4 +1,4 @@
-***Hario Lai Personal Website
+**Hario Lai Personal Website
 
 **Stacks used
 ---
