@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hariolai.github.io/static/css/main.c2931c6f.chunk.css",
-    "main.js": "/hariolai.github.io/static/js/main.0e832416.chunk.js",
-    "main.js.map": "/hariolai.github.io/static/js/main.0e832416.chunk.js.map",
+    "main.js": "/hariolai.github.io/static/js/main.f4d4a70c.chunk.js",
+    "main.js.map": "/hariolai.github.io/static/js/main.f4d4a70c.chunk.js.map",
     "runtime-main.js": "/hariolai.github.io/static/js/runtime-main.645b4fd7.js",
     "runtime-main.js.map": "/hariolai.github.io/static/js/runtime-main.645b4fd7.js.map",
     "static/js/2.b3c06aa6.chunk.js": "/hariolai.github.io/static/js/2.b3c06aa6.chunk.js",
@@ -10,6 +10,8 @@
     "static/js/3.37b30877.chunk.js": "/hariolai.github.io/static/js/3.37b30877.chunk.js",
     "static/js/3.37b30877.chunk.js.map": "/hariolai.github.io/static/js/3.37b30877.chunk.js.map",
     "index.html": "/hariolai.github.io/index.html",
+    "service-worker.js": "/hariolai.github.io/service-worker.js",
+    "service-worker.js.map": "/hariolai.github.io/service-worker.js.map",
     "static/css/main.c2931c6f.chunk.css.map": "/hariolai.github.io/static/css/main.c2931c6f.chunk.css.map",
     "static/js/2.b3c06aa6.chunk.js.LICENSE.txt": "/hariolai.github.io/static/js/2.b3c06aa6.chunk.js.LICENSE.txt",
     "static/media/Skill.css": "/hariolai.github.io/static/media/Product Sans Bold.53df38d5.ttf",
@@ -32,6 +34,6 @@
     "static/js/runtime-main.645b4fd7.js",
     "static/js/2.b3c06aa6.chunk.js",
     "static/css/main.c2931c6f.chunk.css",
-    "static/js/main.0e832416.chunk.js"
+    "static/js/main.f4d4a70c.chunk.js"
   ]
 }
