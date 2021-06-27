@@ -7,6 +7,19 @@
     "aboutMe": "Hi! my name is Hario Lai, I am a fresh graduate from President University with Information System major. I‘m an aspiring software engineer. I practices software development and understands its fundamentals. I enjoy taking problems and turning them into beautiful solution. I do website and mobile app development on free time. I love to learn new things, I love to read books, and I love to watch movies.",
     "experiences": [
         {
+            "company": "Tokopedia",
+            "logo": "tokopedia.png",
+            "location": "Indonesia",
+            "start": "June 2021",
+            "end": "Present",
+            "role": "Software Engineer - Engineering Productivity",
+            "description": [
+                [
+                    
+                ]
+            ]
+        },
+        {
             "company": "Gojek",
             "logo": "gojek.jpg",
             "location": "Indonesia",

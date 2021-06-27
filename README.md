@@ -1,10 +1,11 @@
-***Hario Lai Personal Website
+Hario Lai Personal Website
+==========================
 
-**Stacks used
+Stacks
 ---
 * ReactJS
 
-**Application
+Application
 ---
 https://hariolai.github.io/
 
